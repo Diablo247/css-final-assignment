@@ -6,7 +6,7 @@
 }
 
 .container{
-    background-image: url('bg faly.jpg');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(bg faly.jpg);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
